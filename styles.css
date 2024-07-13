@@ -17,6 +17,13 @@
 	border:solid;
 	border-color:blue;
 }
+.item1 {
+	margin-top:1px;
+	font-size:24px;
+}
+.link {
+		
+}
 .container1b{
 	display:flex;
 	justify-content:center;
@@ -33,14 +40,19 @@
 	border:solid;
 	border-color:green;
 	border-width:6px;
+	margin-top:5px;
 	width:400px;
+}
+.item3 {
+	font-size:48px;
+	margin:0;
 }
 .container1b2 {
 	display:flex;
+	margin:5px;
 	justify-content:space-evenly;
 	border:solid;
 	border-color:orange;
 	border-width:6px;
 	width:400px;
 }
-	
