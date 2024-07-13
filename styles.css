@@ -1,0 +1,34 @@
+.container {
+	display:flex;
+	flex-wrap:wrap;
+	flex-direction:column;
+	flex-wrap:wrap;
+}
+.container1{
+	border:solid;
+	border-color:purple;
+	display:flex;
+	justify-content:space-evenly;
+}
+.container2{
+	display:flex;
+	border:solid;
+	border-color:blue;
+	display:flex;
+	justify-content:center;
+	gap:20px;
+}
+.container2a{
+	border:solid;
+	border-color:pink;
+	display:flex;
+	flex-direction:column;
+	max-width:400px;
+}
+.container2b {
+	border:solid;
+	border-color:red;
+	display:flex;
+	width:400px;
+}
+
